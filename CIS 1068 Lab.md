@@ -21,19 +21,13 @@ Outline:
 
 My name is Qi Zhang (张棋). How to [pronounce](https://www.youtube.com/watch?v=8UsXzCbFo5w)? Pronounce like Chi in English.
 
-
-
 I am the 1st Year Phd Student in CIS department. I do reserach work in Data mining and Natural Language Processing.
-
-
 
 **About the lab:**
 
 In the begin of each lab I will give instruction for the assignment of this lab.
 
 After that you do the assignment by yourself in your own computer.
-
-
 
 **How to ask question in zoom** :
 
@@ -44,6 +38,8 @@ If you have question, open your microphone, and I will create a break room for y
 
 
 **I will write an text file of each lab and put it to the github. **
+
+
 
 ### 2 How to install the Eclipse
 
@@ -79,7 +75,11 @@ https://www.tutorialspoint.com/java/java_environment_setup.htm
 
 ### 3 Create your first Java project
 
-see the instruction in the begin of lab
+See the slides:
+
+https://docs.google.com/presentation/d/14m4RtROFajETq4S500ZKFydILc4hHgMu4RP5ZEKFBnY/edit?usp=sharing
+
+
 
 
 
@@ -87,15 +87,22 @@ see the instruction in the begin of lab
 
 
 
+See the slides:
+
+https://docs.google.com/presentation/d/14m4RtROFajETq4S500ZKFydILc4hHgMu4RP5ZEKFBnY/edit?usp=sharing
+
 
 
 ### 5 Find your source files
 
+See the slides:
+
+https://docs.google.com/presentation/d/14m4RtROFajETq4S500ZKFydILc4hHgMu4RP5ZEKFBnY/edit?usp=sharing
 
 
 
-
-## Other resources:
+## Other useful resources:
 
 - Online compiler:https://www.jdoodle.com/online-java-compiler/
 - Online free tutorial: https://www.tutorialspoint.com/java/index.htm
+
