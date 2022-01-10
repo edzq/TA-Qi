@@ -101,6 +101,10 @@ https://docs.google.com/presentation/d/14m4RtROFajETq4S500ZKFydILc4hHgMu4RP5ZEKF
 
 
 
+the source code of lab 1: [lab1](/lab1)
+
+
+
 ## Other useful resources:
 
 - Online compiler:https://www.jdoodle.com/online-java-compiler/
