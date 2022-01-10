@@ -6,6 +6,10 @@
 
 **Goal of Lab 1**: Learn how to edit, compile, and run Java programs using Eclipse, and can then find their source files in the eclipse project's directory on the file system.
 
+Slides of Lab 1: https://docs.google.com/presentation/d/14m4RtROFajETq4S500ZKFydILc4hHgMu4RP5ZEKFBnY/edit?usp=sharing
+
+
+
 Outline:
 
 - 1 Introduction (Lab TA, how to teach)
