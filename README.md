@@ -2,4 +2,5 @@
 
 ## 2022 Spring pls see [CIS 1068 Lab](https://github.com/edzq/TA-Qi/blob/main/CIS%201068%20Lab.md)
 
-## The slides and materials of [Lab 2 you can find heare](lab2.md), the [example code here](lab2-ExampleCode)
+## Lab 2 (Jan. 24)
+The slides and materials of [Lab 2 you can find heare](lab2.md), the [example code here](lab2-ExampleCode)
