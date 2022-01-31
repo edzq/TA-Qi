@@ -80,6 +80,7 @@ weightedScore = totalPoints / maxPoints * HM_WEIGHT;
 ```
 
 
+**The example code please see: https://github.com/edzq/TA-Qi/blob/main/lab3-exampleCode(grade)/Main.java**
 
 
 
