@@ -11,3 +11,4 @@ Find the [example code here](lab2-ExampleCode)
 
 ## Lab 3 (Jan. 31)
 
+The slides and materials of [Lab 3 you can find here](lab3.md).
