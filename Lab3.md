@@ -92,3 +92,5 @@ Lab Scanner: https://www.buildingjavaprograms.com/labs/5ed/ch03-scanner.html
 
 Lab Parameter: https://www.buildingjavaprograms.com/labs/5ed/ch03-parameters.html
 
+
+All the answer  of practice problem find [here](lab3Practice.md)
