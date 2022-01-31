@@ -8,7 +8,7 @@
 - 3 lab  practice problems
   - Practice by group or alone for 10 mins each
   - Give you answer and go through (hope we can finish all of them)
-- Quiz (begin at 12:05 PM)
+- Quiz (begin at 2::10 PM)
 
 
 
