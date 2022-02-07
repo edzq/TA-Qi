@@ -6,10 +6,16 @@
 
 - Assignment 4
 - 3 lab  practice problems
+<<<<<<< HEAD
   - Practice by group or alone for 10 mins each (30 mins)
   - Go through the answer
     - Hope we can finish them. If we cannot, I will give you all the answer of the labs.
 - Quiz (begin at 12:05 PM)
+=======
+  - Practice by group or alone for 10 mins each
+  - Give you answer and go through (hope we can finish all of them)
+- Quiz (begin at 2::10 PM)
+>>>>>>> 6f34c2690fea263eea53519671ae8ea0acd885b3
 
 
 
@@ -81,6 +87,7 @@ weightedScore = totalPoints / maxPoints * HM_WEIGHT;
 ```
 
 
+**The example code please see: https://github.com/edzq/TA-Qi/blob/main/lab3-exampleCode(grade)/Main.java**
 
 
 
@@ -91,4 +98,7 @@ Lab Return: https://www.buildingjavaprograms.com/labs/5ed/ch03-return.html
 Lab Scanner: https://www.buildingjavaprograms.com/labs/5ed/ch03-scanner.html
 
 Lab Parameter: https://www.buildingjavaprograms.com/labs/5ed/ch03-parameters.html
+
+All the answer of practice problem find [here](lab3Practice.md)
+
 
