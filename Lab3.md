@@ -6,8 +6,9 @@
 
 - Assignment 4
 - 3 lab  practice problems
-  - Practice by group or alone for 10 mins each
-  - Give you answer and go through (hope we can finish all of them)
+  - Practice by group or alone for 10 mins each (30 mins)
+  - Go through the answer
+    - Hope we can finish them. If we cannot, I will give you all the answer of the labs.
 - Quiz (begin at 12:05 PM)
 
 
