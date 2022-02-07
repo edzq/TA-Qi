@@ -2,10 +2,7 @@
 
 ## Outline
 
-- Practice Problem (**Scanner**, if-else, cumulative algorithms)
-  - From 1 PM - 1:25PM
-
-- Go through the Practice Problem (Scanner), Assignment 5 and other practice problem.
+- Go through the Practice Problem (Scanner 10 mins for you to finished), Assignment 5 and other practice problem.
 - Practice Problem (**Scanner**, if-else, cumulative algorithms)
 - Quiz
 
