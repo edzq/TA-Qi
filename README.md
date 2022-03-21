@@ -12,3 +12,12 @@ Find the [example code here](lab2-ExampleCode)
 ## Lab 3 (Jan. 31)
 
 The notes of [Lab 3 you can find here](Lab3.md).
+
+## Lab 4 (Feb. 7)
+
+The notes of [Lab 4 you can find here](Lab4%20.md).
+
+
+## Lab 5 (Feb. 14)
+
+The notes of [Lab 5 you can find here](Lab5.md).
