@@ -53,6 +53,8 @@ public Fraction add(Fraction a) {
 
 The example of get the greatest common divisor:
 
+Read the [Euclidean algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm)
+
 ```java
 private int gcd(int a, int b) {
 	      int factor = b;
@@ -67,7 +69,7 @@ private int gcd(int a, int b) {
 
 The example of the reduce methods:
 
-Check the [Euclidean algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm)
+
 
 ```java
 private Fraction reduce() {
