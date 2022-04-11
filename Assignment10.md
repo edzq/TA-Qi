@@ -5,7 +5,7 @@ Outline:
 # Assignment 10(Apr. 11)
 
 ## Structure
-- One Question Template class (I named as QuestionFormat, this is the Parent class)
+- One class for Question Template (I named as QuestionFormat, this is the Parent class)
   - Fields:
     - points
     - difficulty
@@ -33,6 +33,8 @@ Outline:
 - One Test class
   - Two fields: questions[] and totalPoints
   - toString methods: print all the questions
+
+- One test Driver
 
 ## QuestionFormat （Generic problem classes）
 
@@ -124,7 +126,6 @@ Outline:
 
 ## Test class
 
-polymorphism
 
 - Object list to save all the questions
 
@@ -187,6 +188,8 @@ polymorphism
 
 
 ## Driver examples
+
+polymorphism
 
 - Add constants min and max difficulty. (we don't need any constraints here, just add them to our objects)
 - generate the question objects list
