@@ -1,6 +1,6 @@
 # Assignment 10(Apr. 11)
 
-Structure
+## Structure
 - One Question Template class (I named as QuestionFormat, this is the Parent class)
   - Fields:
     - points
@@ -29,3 +29,37 @@ Structure
 - One Test class
   - Two fields: questions[] and totalPoints
   - toString methods: print all the questions
+
+## QuestionFormat （Generic problem classes）
+
+```
+  //class fields
+	private int points;
+	private int difficulty;
+	private int answerSpace;
+	private String questionText;
+	private String type;
+  
+  //constructor
+  public QuestionFormat(int points, int difficulty, int answerSpace, 
+			String questionText, String type) {
+		
+		//add the fields
+	}
+  
+  //methods
+  //Print the questionText
+	public String display() {
+		String question = questionText;
+		for(int i = 0; i < answerSpace; i++) {
+			question = question + '\n';
+		}
+		return question;
+	}
+  
+  //method for geting points
+  
+  
+  //method for getting question type
+  
+```
