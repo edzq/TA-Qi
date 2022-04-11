@@ -1,3 +1,7 @@
+Outline:
+- Assignment 10
+- in-lab practice (5points, you should submit today)
+
 # Assignment 10(Apr. 11)
 
 ## Structure
