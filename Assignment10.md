@@ -32,7 +32,7 @@
 
 ## QuestionFormat （Generic problem classes）
 
-```
+```java
   //class fields
 	private int points;
 	private int difficulty;
