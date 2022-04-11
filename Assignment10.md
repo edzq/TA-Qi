@@ -11,7 +11,7 @@ Outline:
     - difficulty
     - answerSpace
     - questionText
-    - **type** (for control the Question type)
+    - **type** (to control the Question type)
 
   - Methods
     - display():display the questionText with the answerSpace
