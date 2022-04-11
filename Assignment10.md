@@ -134,6 +134,9 @@ polymorphism
 
 ## Driver examples
 
+- Add constants min and max difficulty. (we don't need any constraints here, just add them to our objects)
+- generate the question objects list
+
 ```java
 
 package testPaper;
