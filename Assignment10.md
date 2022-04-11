@@ -176,13 +176,26 @@ Outline:
 		
 		displayText = displayText + "\n-----Following are Answer keys-----\n";
 		//display the answer of each question 
+		for(int i =0; i<questions.length; i++) {
+			String type = questions[i].getType();
+			//print the problem with their types
+			if(type.equals("ObjectiveQuestion")) {
+				displayText = displayText + ((ObjectiveQuestion)questions[i]).answer()
+						+ '\n';
+				
+			}else if(type.equals("MultipleChoiceQuestion")) {
+				displayText = displayText + ((MultipleChoiceQuestion)questions[i]).answer()
+						+ '\n';
+			}else if(type.equals("FillInTheBlankQuestion")) {
+				displayText = displayText + ((FillinBlankQuestion)questions[i]).answer()
+						+ '\n';
+			}
+			
+		}
 		
-		.....
 		
 		
 	}
-
-
 
 ```
 
