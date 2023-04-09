@@ -71,20 +71,31 @@ public class HoneyDoList {
 		return index;
 	}
 	
-	public void completeTask(int index) {
-		// for loop to shift each task after index into left one place
-		for (int i=index; i<this.numTasks-1; i++) {
-			this.tasks[i] = this.tasks[i=1];
+	public Task completeTask(int index) {
+		
+		Task targetTask = null;
+		
+		// If index is not invalid, get the target task.
+		if (getTask(index) != null) {
+			
+			// get the target task
+			targetTask = this.tasks[index];
+			// for loop to shift each task after index into left one place
+			for (int i=index; i<this.numTasks-1; i++) {
+				this.tasks[i] = this.tasks[i=1];
+			}
+			// set the previous final task element in the array as null
+			this.tasks[this.numTasks] = null;
+			this.numTasks -= 1;
 		}
-		// set the previous final task element in the array as null
-		this.tasks[this.numTasks] = null;
-		this.numTasks -= 1;
+		
+		return targetTask;
 	}
 	
-	public String getTask(int index) {
-		String specificTask = null;
+	public Task getTask(int index) {
+		Task specificTask = null;
 		if(index > 0 && index < this.numTasks) {
-			specificTask = this.tasks[index].toString();
+			specificTask = this.tasks[index];
 			return specificTask;
 		}
 		return specificTask;

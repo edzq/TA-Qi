@@ -11,13 +11,13 @@ public class Task {
 	private LocalDateTime whenDue;
 	// constructor
 	public Task(String name, int priority, int estminsToComplete, LocalDateTime whenDue) {
-		
 		this.name = name;
 		this.priority = priority;
 		this.estMinsToComplete = estminsToComplete;
 		this.whenDue = whenDue;
-		
 	}
+	
+	// null constructor
 	
 	// Accessors
 	public String getName() { return name;}
