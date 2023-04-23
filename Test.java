@@ -25,9 +25,12 @@ public class Test {
 			String type = questions[i].getType();
 			//print the problem with their types
 			if(type.equals("ObjectiveQuestion")) {
+				// type cast current question obj as the objectiveQuestion
+				// then the display is specific to objectiveQuestion
 				displayText = displayText + ((ObjectiveQuestion)questions[i]).display()
 						+ '\n';
-				
+				// So this is a type cast, which means the code is explicitly 
+				// converting the type of the object at questions[i] to MultipleChoiceQuestion.
 			}else if(type.equals("MultipleChoiceQuestion")) {
 				displayText = displayText + ((MultipleChoiceQuestion)questions[i]).display()
 						+ '\n';
